@@ -1,4 +1,4 @@
-package org.eds.epi;
+package org.eds.epi.arrays;
 
 import java.util.List;
 
@@ -12,9 +12,6 @@ import java.util.List;
  * 2, 6, 6, 4, 6, 2
  *
  * 2, 2, 6, 4, 6, 6
- *
- *
- *
  *
  */
 public class DutchNationalFlag {

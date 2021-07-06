@@ -1,4 +1,4 @@
-package org.eds.epi;
+package org.eds.epi.arrays;
 
 import org.junit.jupiter.api.Test;
 
